@@ -7,7 +7,7 @@ This project showcases a stylish landing page for a beauty salon including servi
 
 # 🌐 Live Preview
 
-https://darshil-parekh.github.io/Perfect-Salon/
+https://darshil-parekh.github.io/Perfect-Hair-Salon/
 
 ---
 
